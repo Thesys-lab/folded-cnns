@@ -7,6 +7,8 @@ Datacenter vision systems widely use small, specialized convolutional neural net
 
 **Paper:** [PMLR link](http://proceedings.mlr.press/v139/kosaian21a.html)
 
+**Conference talk:** In the "AutoML and Neural Network Architectures 1" session, on Tuesday  20th July 2021, 10 a.m. EDT — 11 a.m. EDT
+
 **Video:** (link to come when available)
 
 **Code:** [https://github.com/msr-fiddle/folded-cnns](https://github.com/msr-fiddle/folded-cnns)
