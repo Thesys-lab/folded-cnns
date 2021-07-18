@@ -1,6 +1,7 @@
 # FoldedCNNs
 
 **Boosting the Throughput and Accelerator Utilization of Specialized CNN Inference Beyond Increasing Batch Size**
+
 **ICML 2021**
 
 **Abstract:**
