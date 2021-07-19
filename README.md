@@ -17,4 +17,4 @@ Datacenter vision systems widely use small, specialized convolutional neural net
 The spotlight presentation for the paper is available at this [link](https://icml.cc/virtual/2021/spotlight/8416). Access to this link requires that one be registered for ICML 2021.
 
 ## Code
-The code used in developing and evaluating FoldedCNNs is available and maintained in the following repository: [https://github.com/msr-fiddle/folded-cnns](https://github.com/msr-fiddle/folded-cnns). Please raise any issues and pull requests within the linked repository, rather than this page.
+The code used in developing and evaluating FoldedCNNs is available and maintained in the following repository: [https://github.com/msr-fiddle/folded-cnns](https://github.com/msr-fiddle/folded-cnns). Please raise any issues and pull requests within this linked repository.
