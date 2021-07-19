@@ -9,7 +9,7 @@ Datacenter vision systems widely use small, specialized convolutional neural net
 
 **Paper:** [PMLR link](http://proceedings.mlr.press/v139/kosaian21a.html)
 
-**ICML 2021 schedule for the paper:** Soptlight presentation and Q&A in the "AutoML and Neural Network Architectures 1" session, on Tuesday  20th July 2021, 10 a.m. EDT — 11 a.m. EDT. Poster at Spot C2 in Virtual World, Tuesdday 20the July 2021 11 a.m. EDT — 2 p.m. EDT.
+**ICML 2021 schedule for the paper:** Soptlight presentation and Q&A in the "AutoML and Neural Network Architectures 1" session, on Tuesday 20th July 2021, 10 a.m. EDT — 11 a.m. EDT. Poster at Spot C2 in Virtual World, Tuesday 20th July 2021, 11 a.m. EDT — 2 p.m. EDT.
 
 **Video:** (link to come when available)
 
