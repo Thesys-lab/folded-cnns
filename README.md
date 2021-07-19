@@ -1,6 +1,6 @@
 # FoldedCNNs
 
-![alt text](folding_example.pdf "Example of a FoldedCNN")
+![alt text](folding_example.png "Example of a FoldedCNN")
 
 **Boosting the Throughput and Accelerator Utilization of Specialized CNN Inference Beyond Increasing Batch Size**
 
