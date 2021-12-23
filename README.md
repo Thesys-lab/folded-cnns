@@ -18,3 +18,6 @@ The spotlight presentation for the paper is available at this [link](https://icm
 
 ## Code
 The code used in developing and evaluating FoldedCNNs is available and maintained in the following repository: [https://github.com/msr-fiddle/folded-cnns](https://github.com/msr-fiddle/folded-cnns). Please raise any issues and pull requests within this linked repository.
+
+# Support
+This work was completed in part through the support of Microsoft Research during a summer internship. Co-author Jack was also funded in part by an NSF Graduate Research Fellowship (DGE-1745016 and DGE-1252522). Co-authors Jack and Rashmi were also funded in part by Amazon Web Services and in part by the AIDA project (POCI-01-0247- FEDER-045907) co-financed by the European Regional Development Fund through the Operational Program for Competitiveness and Internationalisation 2020.
